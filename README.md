@@ -104,9 +104,5 @@ Email: battaramkrishnakoushik123@gmail.com
 📃 License
 This project is for academic use only.
 
-scss
-Copy
-Edit
 
-Let me know if you want this personalized with your GitHub repo or deployed URL, or want a [project demo video script](f) or [presentation slides](f).
 
